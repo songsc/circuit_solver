@@ -1,10 +1,3 @@
-/* 
- * File:   Resistor.h
- * Author: songshu3
- *
- * Created on October 29, 2013, 2:30 PM
- */
-
 #ifndef RESISTOR_H
 #define	RESISTOR_H
 
