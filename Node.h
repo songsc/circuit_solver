@@ -1,10 +1,3 @@
-/* 
- * File:   Node.h
- * Author: songshu3
- *
- * Created on October 29, 2013, 2:21 PM
- */
-
 #ifndef NODE_H
 #define	NODE_H
 
