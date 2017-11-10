@@ -1,10 +1,3 @@
-/* 
- * File:   NodeList.h
- * Author: songshu3
- *
- * Created on October 29, 2013, 2:31 PM
- */
-
 #ifndef NODELIST_H
 #define	NODELIST_H
 
