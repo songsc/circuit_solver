@@ -1,11 +1,3 @@
-/*
- * Shuangchen Song (999931052)
- * ECE244 Lab2
- * Nov.07, 2013
- * To TAs / Automaker: Thanks for marking, have a good day/night!
- */
-
-
 #include <iostream>
 #include <sstream>
 #include <string>
