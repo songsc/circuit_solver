@@ -1,10 +1,3 @@
-/* 
- * File:   ResistorList.h
- * Author: songshu3
- *
- * Created on October 29, 2013, 2:31 PM
- */
-
 #ifndef RESISTORLIST_H
 #define	RESISTORLIST_H
 
