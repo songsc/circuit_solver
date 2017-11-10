@@ -1,10 +1,3 @@
-/* 
- * File:   Rparser.h
- * Author: songshu3
- *
- * Created on October 30, 2013, 7:08 PM
- */
-
 #ifndef RPARSER_H
 #define	RPARSER_H
 
