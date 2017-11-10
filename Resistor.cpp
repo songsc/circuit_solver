@@ -1,10 +1,3 @@
-/*
- * File: Resistor.cpp
- * Author: Shuangchen Song (999931052)
- * 
- * Created on October 29, 2013
- */
-
 #include <iomanip>
 #include <iostream>
 #include <string>
