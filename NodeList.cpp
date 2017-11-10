@@ -1,11 +1,3 @@
-/*
- * File: NodeList.cpp
- * Author: Shuangchen Song (999931052)
- * 
- * Created on October 29, 2013
- */
-
-
 #include <string>
 
 #include "NodeList.h"
